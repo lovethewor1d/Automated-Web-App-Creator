@@ -1,0 +1,33 @@
+about from: https://codesealer.com/a-beginners-guide-to-pen-testing/
+
+
+PUT PHP n MYSQL REFERENCES LATER...
+
+how to create php website taken from:
+https://www.inmotionhosting.com/support/website/grab-all-comments-from-database/
+https://codeshack.io/shopping-cart-system-php-mysql/
+
+
+format "php?id=" style taken from: https://github.com/winston-dsouza/ecommerce-website/blob/master/products.php n https://www.w3schools.com/php/php_echo_print.asp
+
+types.php  (line 10), printing out result from db taken from: https://www.edureka.co/community/65470/how-retrieve-or-obtain-data-from-the-mysql-database-using-php
+
+php security:
+https://phpsecurity.readthedocs.io/en/latest/
+https://github.com/paragonie/awesome-appsec#php
+https://paragonie.com/blog/2015/05/preventing-sql-injection-in-php-applications-easy-and-definitive-guide
+https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software#secure-php-xss
+
+
+background image taken from: https://www.uhdpaper.com/2022/04/circuit-background-4k-8k-9170f.html
+logo: https://toppng.com/hacker-logo-PNG-free-PNG-Images_162297
+
+
+comments/post inspiration taken from: https://codeshack.io/commenting-system-php-mysql-ajax/
+
+
+check later:
+https://stackoverflow.com/questions/14315208/how-to-delete-subsequent-line-after-a-line-with-specific-keyword-in-python
+https://www.pythonforbeginners.com/files/how-to-delete-a-specific-line-in-a-file
+https://stackoverflow.com/questions/30936032/python-search-string-and-replace-character-in-next-line
+https://stackoverflow.com/questions/3961265/get-line-number-of-certain-phrase-in-file-python

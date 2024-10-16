@@ -1,0 +1,60 @@
+<?php
+require_once "config.php";
+require_once "auth_check.php";
+?>
+<html>
+   <title>StoryBoard</title>
+   <head>
+      <title>Products</title>
+	      <!-- CSSstart -->
+	  	  <link rel="stylesheet" href="styles1.css">
+		  <!-- CSSend -->
+   </head>
+<body>
+
+	  	   <div class="header">
+  <div class="logo"></div>
+   <div class="header-right">
+    <a href="home.html">Home</a>
+  
+    <a href="upload.html">File Upload</a>
+	 <a href="search.html">Search</a>
+	  <a href="feedback.html">Feedback</a>
+	 <a href="types.html">Types</a>
+	 <a class="active" href="products.html">products</a>
+	 <a href="logout.php">Logout</a>
+</div></div>
+ <div align = "center">
+
+         <div style = "width:500px;height:300px; border: solid 5px #006625; position: absolute; top: 50%; left: 40%; margin-top: -150px; margin-left: -150px;">
+            <div style = "background-color:#006625; color:white; padding:3px;"><b>Types of Products</b></div>
+				
+            <div style = "margin:20px"></div>
+	  <center>
+	  <br>
+	  <!---start1-->
+	  <h3><a href="products.php?id=1" name="id" value="cars">Cars</a></h3>
+	  <!---end1-->
+	  
+	  <!---start2-->
+	  <h3><a href="products.php?id=2" name="id" value="bikes">Bikes</a></h3>
+	  <!---end2-->
+	  
+	  <!---start3-->
+	  <h3><a href="products.php?id=3" name="id" value="planes">Planes</a></h3></h3>
+	  <!---end3-->
+	  
+	  <!---start4-->
+	  <h3><a href="products.php?id=4" name="id" value="laptops">Laptops</a></h3></h3>
+	  <!---end4-->
+	  
+	  <!---start5-->
+	  <h3><a href="products.php?id=5" name="id" value="headphones">Headphones</a></h3></h3>
+	  <!---end5-->
+	  
+	  </div></div>
+	  
+	  <div class="footer"><p>Lorem Ipsum</p></div>
+	  
+</body>
+</html>

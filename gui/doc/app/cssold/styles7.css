@@ -1,0 +1,38 @@
+         label {
+            font-weight:bold;
+            width:200px;
+            font-size:14px;
+			color:white;
+         }
+         .box {
+            border:#120f0f solid 2px;
+         }
+.header {
+ 
+  background-color:#006625;
+  padding: 5px 10px;
+   position: fixed;
+   left: 0;
+   top: 0;
+   width: 100%;
+  
+}
+
+.header.logo {
+  
+  background-color:white;
+}
+
+
+		 .footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #006625;
+   color: white;
+   text-align: center;
+   font-size: 11;
+   font-family: Arial;
+   
+}
